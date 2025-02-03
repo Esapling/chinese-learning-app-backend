@@ -1,0 +1,63 @@
+  [
+      {
+        "character": "你",
+        "pinyin": "nǐ",
+        "meaning": "you",
+        "example": "你好！(Nǐ hǎo!) - Hello!"
+      },
+      {
+        "character": "我",
+        "pinyin": "wǒ",
+        "meaning": "I, me",
+        "example": "我是学生。(Wǒ shì xuéshēng.) - I am a student."
+      },
+      {
+        "character": "他",
+        "pinyin": "tā",
+        "meaning": "he, him",
+        "example": "他很高。(Tā hěn gāo.) - He is tall."
+      },
+      {
+        "character": "她",
+        "pinyin": "tā",
+        "meaning": "she, her",
+        "example": "她是老师。(Tā shì lǎoshī.) - She is a teacher."
+      },
+      {
+        "character": "爱",
+        "pinyin": "ài",
+        "meaning": "love",
+        "example": "我爱你。(Wǒ ài nǐ.) - I love you."
+      },
+      {
+        "character": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water",
+        "example": "我要水。(Wǒ yào shuǐ.) - I want water."
+      },
+      {
+        "character": "火",
+        "pinyin": "huǒ",
+        "meaning": "fire",
+        "example": "火很热。(Huǒ hěn rè.) - Fire is hot."
+      },
+      {
+        "character": "大",
+        "pinyin": "dà",
+        "meaning": "big",
+        "example": "这个苹果很大。(Zhège píngguǒ hěn dà.) - This apple is big."
+      },
+      {
+        "character": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small",
+        "example": "这只狗很小。(Zhè zhī gǒu hěn xiǎo.) - This dog is small."
+      },
+      {
+        "character": "天",
+        "pinyin": "tiān",
+        "meaning": "sky, day",
+        "example": "今天很冷。(Jīntiān hěn lěng.) - Today is cold."
+      }
+    ]
+  

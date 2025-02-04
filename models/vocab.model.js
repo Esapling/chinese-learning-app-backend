@@ -25,6 +25,8 @@ const VocabSchema = new mongoose.Schema({
   },
 });
 
-const Vocab = mongoose.model("Vocab", VocabSchema);
+const Vocab = mongoose.model("Vocab", VocabSchema, "Vocab");
+// mongo db automatically pluralizes the collection name
+// third parameter sets the collection name to "Vocab"
 
 export default Vocab;
